@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+uploads/
+
+# Optional: If you're using any editor-specific folders
+.vscode/
+.idea/
+
+# Optional: coverage reports from testing tools
+coverage/
